@@ -43,7 +43,7 @@ function App() {
 export default App
 
 
-
+//Multiple routes with Switch
 
 //import React, { Component } from 'react'
 // import Nav from './components/Nav'
